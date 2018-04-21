@@ -1,0 +1,25 @@
+﻿Build started 09/04/2018 13:54:38.
+     1>Project "D:\MU\CS426 - Graphics\VS\Visual Studio 2010\Projects\OpenGL_Models_2M\OpenGL_Models_2M\OpenGL_Models_2M.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\OpenGL_Models_2M.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         OpenGL_Models_2M.vcxproj -> D:\MU\CS426 - Graphics\VS\Visual Studio 2010\Projects\OpenGL_Models_2M\Debug\OpenGL_Models_2M.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\OpenGL_Models_2M.unsuccessfulbuild".
+         Touching "Debug\OpenGL_Models_2M.lastbuildstate".
+     1>Done Building Project "D:\MU\CS426 - Graphics\VS\Visual Studio 2010\Projects\OpenGL_Models_2M\OpenGL_Models_2M\OpenGL_Models_2M.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.43

@@ -1,0 +1,62 @@
+﻿Build started 09/04/2018 01:13:16.
+     1>Project "D:\MU\CS426 - Graphics\VS\Visual Studio 2010\Projects\flyby\flyby\flyby.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\flyby.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Users\Kevin\Documents\Visual Studio 2010\Projects\flyby\glm" /I"C:\Users\Kevin\Documents\Visual Studio 2010\Projects\flyby\glloadobj" /I"C:\Users\Kevin\Documents\Visual Studio 2010\Projects\flyby\freeglut_bin" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\flyby.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt flyby.cpp
+         flyby.cpp
+     1>c:\users\kevin\documents\visual studio 2010\projects\flyby\glloadobj\glm.c(345): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\kevin\documents\visual studio 2010\projects\flyby\glloadobj\glm.c(346): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\kevin\documents\visual studio 2010\projects\flyby\glloadobj\glm.c(347): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\kevin\documents\visual studio 2010\projects\flyby\glloadobj\glm.c(349): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\kevin\documents\visual studio 2010\projects\flyby\glloadobj\glm.c(350): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\kevin\documents\visual studio 2010\projects\flyby\glloadobj\glm.c(351): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\kevin\documents\visual studio 2010\projects\flyby\glloadobj\glm.c(987): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\kevin\documents\visual studio 2010\projects\flyby\glloadobj\glm.c(988): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\kevin\documents\visual studio 2010\projects\flyby\glloadobj\glm.c(989): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\kevin\documents\visual studio 2010\projects\flyby\glloadobj\glm.c(992): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\kevin\documents\visual studio 2010\projects\flyby\glloadobj\glm.c(1194): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\kevin\documents\visual studio 2010\projects\flyby\glloadobj\glm.c(1401): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\kevin\documents\visual studio 2010\projects\flyby\glloadobj\glm.c(1407): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\kevin\documents\visual studio 2010\projects\flyby\glloadobj\glm.c(1408): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\kevin\documents\visual studio 2010\projects\flyby\glloadobj\glm.c(1466): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\kevin\documents\visual studio 2010\projects\flyby\glloadobj\glm.c(1471): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\kevin\documents\visual studio 2010\projects\flyby\glloadobj\glm.c(1473): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\kevin\documents\visual studio 2010\projects\flyby\glloadobj\glm.c(1476): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\kevin\documents\visual studio 2010\projects\flyby\glloadobj\glm.c(1477): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\kevin\documents\visual studio 2010\projects\flyby\glloadobj\glm.c(1607): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\documents\visual studio 2010\projects\flyby\glloadobj\glext.h(84): warning C4005: 'GL_BGR' : macro redefinition
+                 c:\users\kevin\documents\visual studio 2010\projects\flyby\glloadobj\glmint.h(32) : see previous definition of 'GL_BGR'
+     1>c:\users\kevin\documents\visual studio 2010\projects\flyby\glloadobj\glext.h(85): warning C4005: 'GL_BGRA' : macro redefinition
+                 c:\users\kevin\documents\visual studio 2010\projects\flyby\glloadobj\glmint.h(36) : see previous definition of 'GL_BGRA'
+     1>c:\users\kevin\documents\visual studio 2010\projects\flyby\glloadobj\glmimg.c(398): warning C4244: '=' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\kevin\documents\visual studio 2010\projects\flyby\glloadobj\glmimg.c(399): warning C4244: '=' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>d:\mu\cs426 - graphics\vs\visual studio 2010\projects\flyby\flyby\flyby.cpp(108): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>d:\mu\cs426 - graphics\vs\visual studio 2010\projects\flyby\flyby\flyby.cpp(124): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>d:\mu\cs426 - graphics\vs\visual studio 2010\projects\flyby\flyby\flyby.cpp(125): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>d:\mu\cs426 - graphics\vs\visual studio 2010\projects\flyby\flyby\flyby.cpp(126): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>d:\mu\cs426 - graphics\vs\visual studio 2010\projects\flyby\flyby\flyby.cpp(127): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>d:\mu\cs426 - graphics\vs\visual studio 2010\projects\flyby\flyby\flyby.cpp(128): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>d:\mu\cs426 - graphics\vs\visual studio 2010\projects\flyby\flyby\flyby.cpp(129): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>d:\mu\cs426 - graphics\vs\visual studio 2010\projects\flyby\flyby\flyby.cpp(158): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\MU\CS426 - Graphics\VS\Visual Studio 2010\Projects\flyby\Debug\flyby.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Kevin\Documents\Visual Studio 2010\Projects\flyby\freeglut_bin" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\flyby.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\MU\CS426 - Graphics\VS\Visual Studio 2010\Projects\flyby\Debug\flyby.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\MU\CS426 - Graphics\VS\Visual Studio 2010\Projects\flyby\Debug\flyby.lib" /MACHINE:X86 Debug\flyby.exe.embed.manifest.res
+         Debug\flyby.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\flyby.exe.embed.manifest" /manifest Debug\flyby.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         flyby.vcxproj -> D:\MU\CS426 - Graphics\VS\Visual Studio 2010\Projects\flyby\Debug\flyby.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\flyby.unsuccessfulbuild".
+         Touching "Debug\flyby.lastbuildstate".
+     1>Done Building Project "D:\MU\CS426 - Graphics\VS\Visual Studio 2010\Projects\flyby\flyby\flyby.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.04

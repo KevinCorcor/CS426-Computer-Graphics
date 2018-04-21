@@ -1,0 +1,59 @@
+﻿Build started 03/04/2018 20:09:04.
+     1>Project "C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\a4\a4.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\a4.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\a4\glloadobj" /I"C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4\a4\glm\gtc" /I"C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4\a4\glm" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\a4.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt a4.cpp /clr:nostdlib 
+         a4.cpp
+     1>C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\a4\glloadobj\glm.c(345): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\a4\glloadobj\glm.c(346): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\a4\glloadobj\glm.c(347): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\a4\glloadobj\glm.c(349): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\a4\glloadobj\glm.c(350): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\a4\glloadobj\glm.c(351): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\a4\glloadobj\glm.c(987): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\a4\glloadobj\glm.c(988): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\a4\glloadobj\glm.c(989): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\a4\glloadobj\glm.c(992): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\a4\glloadobj\glm.c(1194): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\a4\glloadobj\glm.c(1401): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\a4\glloadobj\glm.c(1407): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\a4\glloadobj\glm.c(1408): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\a4\glloadobj\glm.c(1466): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\a4\glloadobj\glm.c(1471): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\a4\glloadobj\glm.c(1473): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\a4\glloadobj\glm.c(1476): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\a4\glloadobj\glm.c(1477): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\a4\glloadobj\glm.c(1607): warning C4018: '<' : signed/unsigned mismatch
+     1>C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\a4\glloadobj\glext.h(84): warning C4005: 'GL_BGR' : macro redefinition
+                 c:\users\kevin\documents\visual studio 2010\projects\a4_model\a4\glloadobj\glmint.h(32) : see previous definition of 'GL_BGR'
+     1>C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\a4\glloadobj\glext.h(85): warning C4005: 'GL_BGRA' : macro redefinition
+                 c:\users\kevin\documents\visual studio 2010\projects\a4_model\a4\glloadobj\glmint.h(36) : see previous definition of 'GL_BGRA'
+     1>C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\a4\glloadobj\glmimg.c(398): warning C4244: '=' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\a4\glloadobj\glmimg.c(399): warning C4244: '=' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\kevin\documents\visual studio 2010\projects\a4_model\a4\OpenGL_WinApp.h(123): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\Debug\a4.exe" /INCREMENTAL /NOLOGO openGL32.lib glu32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /ASSEMBLYRESOURCE:Debug\a4.Form1.resources /MANIFEST /ManifestFile:"Debug\a4.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\Debug\a4.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\a4.obj
+         Debug\AssemblyInfo.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         a4.vcxproj -> C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\Debug\a4.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\Debug\a4.exe;#1" /manifest Debug\a4.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\a4.unsuccessfulbuild".
+         Touching "Debug\a4.lastbuildstate".
+     1>Done Building Project "C:\Users\Kevin\Documents\Visual Studio 2010\Projects\a4_Model\a4\a4.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.10

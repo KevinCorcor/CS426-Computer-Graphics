@@ -1,0 +1,27 @@
+﻿Build started 14/03/2018 09:35:44.
+     1>Project "C:\Users\Kevin\Documents\Visual Studio 2010\Projects\Corcoran_K_14301776 - Copy\Corcoran_K_14301776\Corcoran_K_14301776.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Corcoran_K_14301776.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Users\Kevin\Documents\Visual Studio 2010\Projects\Corcoran_K_14301776\freeglut_bin" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Corcoran_K_14301776.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Corcoran_K_14301776.cpp
+         Corcoran_K_14301776.cpp
+     1>c:\users\kevin\documents\visual studio 2010\projects\corcoran_k_14301776 - copy\corcoran_k_14301776\corcoran_k_14301776.cpp(34): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\kevin\documents\visual studio 2010\projects\corcoran_k_14301776 - copy\corcoran_k_14301776\corcoran_k_14301776.cpp(37): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\kevin\documents\visual studio 2010\projects\corcoran_k_14301776 - copy\corcoran_k_14301776\corcoran_k_14301776.cpp(40): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\kevin\documents\visual studio 2010\projects\corcoran_k_14301776 - copy\corcoran_k_14301776\corcoran_k_14301776.cpp(43): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Kevin\Documents\Visual Studio 2010\Projects\Corcoran_K_14301776 - Copy\Debug\Corcoran_K_14301776.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Users\Kevin\Documents\Visual Studio 2010\Projects\Corcoran_K_14301776\freeglut_bin" freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Corcoran_K_14301776.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Kevin\Documents\Visual Studio 2010\Projects\Corcoran_K_14301776 - Copy\Debug\Corcoran_K_14301776.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Kevin\Documents\Visual Studio 2010\Projects\Corcoran_K_14301776 - Copy\Debug\Corcoran_K_14301776.lib" /MACHINE:X86 Debug\Corcoran_K_14301776.obj
+         Debug\stdafx.obj
+     1>Corcoran_K_14301776.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+         Corcoran_K_14301776.vcxproj -> C:\Users\Kevin\Documents\Visual Studio 2010\Projects\Corcoran_K_14301776 - Copy\Debug\Corcoran_K_14301776.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Kevin\Documents\Visual Studio 2010\Projects\Corcoran_K_14301776 - Copy\Debug\Corcoran_K_14301776.exe;#1" /manifest Debug\Corcoran_K_14301776.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Corcoran_K_14301776.unsuccessfulbuild".
+         Touching "Debug\Corcoran_K_14301776.lastbuildstate".
+     1>Done Building Project "C:\Users\Kevin\Documents\Visual Studio 2010\Projects\Corcoran_K_14301776 - Copy\Corcoran_K_14301776\Corcoran_K_14301776.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.83

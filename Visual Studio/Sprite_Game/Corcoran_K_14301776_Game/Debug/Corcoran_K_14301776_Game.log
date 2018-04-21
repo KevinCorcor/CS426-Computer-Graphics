@@ -1,0 +1,49 @@
+﻿Build started 04/04/2018 17:13:17.
+     1>Project "C:\Users\Kevin\Documents\Visual Studio 2010\Projects\Corcoran_K_14301776_Game\Corcoran_K_14301776_Game\Corcoran_K_14301776_Game.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Corcoran_K_14301776_Game.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Users\Kevin\Documents\Visual Studio 2010\Projects\Corcoran_K_14301776\freeglut_bin" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Corcoran_K_14301776_Game.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Corcoran_K_14301776_Game.cpp
+         Corcoran_K_14301776_Game.cpp
+     1>c:\users\kevin\documents\visual studio 2010\projects\corcoran_k_14301776_game\corcoran_k_14301776_game\sprite.h(99): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\kevin\documents\visual studio 2010\projects\corcoran_k_14301776_game\corcoran_k_14301776_game\sprite.h(99): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>c:\users\kevin\documents\visual studio 2010\projects\corcoran_k_14301776_game\corcoran_k_14301776_game\sprite.h(115): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kevin\documents\visual studio 2010\projects\corcoran_k_14301776_game\corcoran_k_14301776_game\sprite.h(116): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kevin\documents\visual studio 2010\projects\corcoran_k_14301776_game\corcoran_k_14301776_game\sprite.h(190): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\documents\visual studio 2010\projects\corcoran_k_14301776_game\corcoran_k_14301776_game\sprite.h(191): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\documents\visual studio 2010\projects\corcoran_k_14301776_game\corcoran_k_14301776_game\sprite.h(192): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\documents\visual studio 2010\projects\corcoran_k_14301776_game\corcoran_k_14301776_game\sprite.h(204): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\documents\visual studio 2010\projects\corcoran_k_14301776_game\corcoran_k_14301776_game\sprite.h(205): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\documents\visual studio 2010\projects\corcoran_k_14301776_game\corcoran_k_14301776_game\sprite.h(206): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\documents\visual studio 2010\projects\corcoran_k_14301776_game\corcoran_k_14301776_game\corcoran_k_14301776_game.cpp(133): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\kevin\documents\visual studio 2010\projects\corcoran_k_14301776_game\corcoran_k_14301776_game\corcoran_k_14301776_game.cpp(135): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\kevin\documents\visual studio 2010\projects\corcoran_k_14301776_game\corcoran_k_14301776_game\corcoran_k_14301776_game.cpp(140): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\kevin\documents\visual studio 2010\projects\corcoran_k_14301776_game\corcoran_k_14301776_game\corcoran_k_14301776_game.cpp(148): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\kevin\documents\visual studio 2010\projects\corcoran_k_14301776_game\corcoran_k_14301776_game\corcoran_k_14301776_game.cpp(208): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kevin\documents\visual studio 2010\projects\corcoran_k_14301776_game\corcoran_k_14301776_game\corcoran_k_14301776_game.cpp(209): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kevin\documents\visual studio 2010\projects\corcoran_k_14301776_game\corcoran_k_14301776_game\corcoran_k_14301776_game.cpp(224): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\documents\visual studio 2010\projects\corcoran_k_14301776_game\corcoran_k_14301776_game\corcoran_k_14301776_game.cpp(234): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kevin\documents\visual studio 2010\projects\corcoran_k_14301776_game\corcoran_k_14301776_game\corcoran_k_14301776_game.cpp(235): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kevin\documents\visual studio 2010\projects\corcoran_k_14301776_game\corcoran_k_14301776_game\corcoran_k_14301776_game.cpp(247): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\kevin\documents\visual studio 2010\projects\corcoran_k_14301776_game\corcoran_k_14301776_game\corcoran_k_14301776_game.cpp(248): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\kevin\documents\visual studio 2010\projects\corcoran_k_14301776_game\corcoran_k_14301776_game\corcoran_k_14301776_game.cpp(280): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Kevin\Documents\Visual Studio 2010\Projects\Corcoran_K_14301776_Game\Debug\Corcoran_K_14301776_Game.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Users\Kevin\Documents\Visual Studio 2010\Projects\Corcoran_K_14301776\freeglut_bin" freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Corcoran_K_14301776_Game.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Kevin\Documents\Visual Studio 2010\Projects\Corcoran_K_14301776_Game\Debug\Corcoran_K_14301776_Game.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Kevin\Documents\Visual Studio 2010\Projects\Corcoran_K_14301776_Game\Debug\Corcoran_K_14301776_Game.lib" /MACHINE:X86 Debug\Corcoran_K_14301776_Game.obj
+         Debug\stdafx.obj
+     1>Corcoran_K_14301776_Game.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+         Corcoran_K_14301776_Game.vcxproj -> C:\Users\Kevin\Documents\Visual Studio 2010\Projects\Corcoran_K_14301776_Game\Debug\Corcoran_K_14301776_Game.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Kevin\Documents\Visual Studio 2010\Projects\Corcoran_K_14301776_Game\Debug\Corcoran_K_14301776_Game.exe;#1" /manifest Debug\Corcoran_K_14301776_Game.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Corcoran_K_14301776_Game.unsuccessfulbuild".
+         Touching "Debug\Corcoran_K_14301776_Game.lastbuildstate".
+     1>Done Building Project "C:\Users\Kevin\Documents\Visual Studio 2010\Projects\Corcoran_K_14301776_Game\Corcoran_K_14301776_Game\Corcoran_K_14301776_Game.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.49
